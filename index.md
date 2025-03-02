@@ -3,8 +3,8 @@
 #### Technical Skills: SQL, Python, Power BI
 
 ## Education
-- Data Science Foundations Course | Codecademy (2025)
-- B.Sc. In Mechatronics Engineering | TecMilenio University (Universidad TecMilenio, Mexico) (2017)
+- Data Science Foundations Course | Codecademy | 2025
+- B.Sc. in Mechatronics Engineering | TecMilenio University (Universidad TecMilenio, Mexico) | 2017
 
 
 ## Projects
