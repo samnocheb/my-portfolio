@@ -30,7 +30,7 @@ Conclusions / Insights:
 - Art & Crafts and Toys emerged as the highest-selling categories, contributing over 50% of total units sold.
 - Seasonal sales patterns showed strong performance during holiday periods, with December and March experiencing peak revenue.
 
-<center><img src="/img/project1/Dashboard_capture.PNG"/></center>
+![Toy Store Analysis in Power BI](/img/project1/Dashboard_capture.PNG)
 
 
 ### <u>Glassdoor Job Reviews Analysis</u>
@@ -51,5 +51,5 @@ Conclusions / Insights
 - Sentiment analysis revealed that even positive reviews often mention improvement areas, highlighting nuanced employee perceptions.
 - Employees who recommend their company have significantly higher satisfaction ratings, as confirmed by hypothesis testing.
 
-<center><img src="/img/project2/Glassdoor_capture.PNG"/></center>
+![Toy Store Analysis in Power BI](//img/project2/Glassdoor_capture.PNG)
 
