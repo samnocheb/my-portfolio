@@ -56,8 +56,9 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
-  margin:0 auto;
+  max-width: 1100px; /* Set a new maximum width */
+  width: 90%; /* Makes it responsive */
+  margin: 0 auto; /* Keeps it centered */
 }
 
 blockquote {
