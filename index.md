@@ -9,7 +9,7 @@
 
 ## Projects
 ### <u>Toy Store Sales Analysis</u>
-[![Jupyter](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://samnocheb.github.io/my-portfolio/projects/toystore_analysis.html)    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/samnocheb/Toy-Store-Sales-Analysis)     [![Power BI](https://img.shields.io/badge/Power_BI-See_Dashboard-F2C811?style=for-the-badge)](https://samnocheb.github.io/my-portfolio/projects/toystore_dashboard.html)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://samnocheb.github.io/my-portfolio/projects/toystore_analysis.html)    [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/samnocheb/Toy-Store-Sales-Analysis)     [![Power BI](https://img.shields.io/badge/Power_BI-See_Dashboard__-F2C811?style=for-the-badge)](https://samnocheb.github.io/my-portfolio/projects/toystore_dashboard.html)
 
 Analyzed sales data from a toy store chain using **SQL, Python, and Power BI** to uncover key business insights. I cleaned and structured the data in **Pandas**, stored it in an **SQLite** database, and wrote SQL queries to identify top-selling products, revenue trends, and store performance. Using **Matplotlib**, I visualized trends in product demand and seasonal sales fluctuations.
 
