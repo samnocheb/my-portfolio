@@ -4,7 +4,7 @@
 
 ## Education
 - Data Science Foundations Course | Codecademy (2025)
-- B.Sc. In Mechatronics Engineering | Universidad Tecmilenio at Puebla, Mexico (2017)
+- B.Sc. In Mechatronics Engineering | TecMilenio University (Universidad TecMilenio, Mexico) (2017)
 
 
 ## Projects
