@@ -34,7 +34,15 @@ Conclusions / Insights:
 
 
 ### <u>Glassdoor Job Reviews Analysis</u>
-[![Jupyter](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://samnocheb.github.io/my-portfolio/projects/glassdoor_analysis.html)     [![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/samnocheb/Glassdoor-Job-Reviews-Analysis) 
+<p align="center">
+  <a href="https://samnocheb.github.io/my-portfolio/projects/glassdoor_analysis.html">
+    <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
+  </a>
+  <a href="https://github.com/samnocheb/Glassdoor-Job-Reviews-Analysis">
+    <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  </a>
+</p>
+
 
 Analyzed 200 thousand Glassdoor job reviews to uncover key drivers of employee satisfaction. Using **Python, data visualization, sentiment analysis, and predictive modeling**, I cleaned and structured the dataset, explored trends in workplace ratings, and applied **NLP** to assess employee sentiments. I also performed hypothesis testing to determine whether employees who recommend their company tend to have higher satisfaction scores and built a linear regression model to predict job ratings based on workplace factors.
 Conclusions / Insights
